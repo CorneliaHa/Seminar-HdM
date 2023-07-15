@@ -103,24 +103,25 @@
     <text>
         <body>
             <!-- Gleich werde ich den Seitenanfang durch das selbstschließene pb-Element einleiten und einen Verweis auf das Digitalisat einfügen -->
-            <pb facs="https://collections.thulb.uni-jena.de/rsc/viewer/HisBest_derivate_00015941/Mittheilungen_Perthes_ErgBl_129602507_1903_144_0005.tif"/>
+            <pb facs="www.url.de"/>
             <!-- Das stört etwas, aber leider müssen wir die Tagebucheinträge in ein Kapitel einordnen. Wir nehmen als "Kapitel" unsere Nummer vom Beginn -->   
-            <div type="chapter" n="001">
+            <div type="chapter" n="006">
                     <div type="diaryEntry" n="1">
-                        <p>Hier steht ein Tagebucheintrag
-                        <lb/>Und hier ist die zweite Zeile
-                        </p>
+                        <p>Tagebucheintrag1Ende</p>
                     </div>
                     <div type="diaryEntry" n="2">
-                        <p>Hier steht ein zweiter Tagebucheintrag</p>
-                        <!-- Wie nervig. Der Tagebucheintrag wird durch einen Seitenwechsel unterbrochen -->
-                        <pb facs="https://collections.thulb.uni-jena.de/rsc/viewer/HisBest_derivate_00015941/Mittheilungen_Perthes_ErgBl_129602507_1903_144_0006.tif"/>
+                        <p>Tagebucheintrag2Beginn
+                        <!-- Wie nervig. Der Tagebucheintrag wird durch zwei Seitenwechsel unterbrochen -->
+                        <pb facs="www.url.de"/>
+                        <pb facs="www.url.de"/>
+                        Tagebucheintrag2Ende</p>                  
                     </div>
-                <div type="diaryEntry">
-                    <p>Hier steht ein dritter Tagebucheintrag </p>
-                </div>
-             </div>
-            
+                    <div type="diaryEntry" n="3">
+                        <p>Tagebucheintrag3</p>
+                    </div><div type="diaryEntry" n="4">
+                        <p>Tagebucheintrag4Beginn</p>
+                    </div>
+            </div>
         </body>
     </text>
 </TEI>
