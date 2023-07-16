@@ -102,24 +102,152 @@
     </teiHeader>
     <text>
         <body>
-            <!-- Gleich werde ich den Seitenanfang durch das selbstschließene pb-Element einleiten und einen Verweis auf das Digitalisat einfügen -->
-            <pb facs="www.url.de"/>
-            <!-- Das stört etwas, aber leider muessen wir die Tagebucheinträge in ein Kapitel einordnen. Wir nehmen als "Kapitel" unsere Nummer vom Beginn -->   
+            <pb facs="www.url.de"/> 
             <div type="chapter" n="006">
                     <div type="diaryEntry" n="1">
-                        <p>Tagebucheintrag1Ende</p>
+                        <p>sammeln, denn diese Geröllanhäufung, die die kleine Bucht erfüllt, entstammt einer Moräne.<lb/>
+Verschiedene Granite, große Gneisblöcke, Porphyre, Basalt und anderes vulkanisches Gestein,<lb/>
+Quarzite dec. Ich frage mich, wie sich dort so verschiedenartiges Gestein hat ansammeln<lb/>
+können. Daß es vom Treibeis hergeführt worden, glaube ich nicht; mir scheint, daß nur<lb/>
+zwei Hypothesen über seine Herkunft in Frage kommen können. Entweder ist es der<lb/>
+im Hintergrund der Bucht emporragende Gletscher, der diesen Schutt hergeführt hat, oder<lb/>
+er rührt aus Zeiten her, wo die Eisverhältnisse ganz andere waren als die jetzigen. Die<lb/>
+erstere Hypothese scheint mir unwahrscheinlich, denn die Steine sind abgeschliffen, sie<lb/>
+kommen von weither. Diese Tatsache kann indes nicht gerade als Beweis dienen, denn<lb/>
+die Wellen mußten seither ebenfalls ihre Tätigkeit bemerkbar machen. Auf der anderen<lb/>
+Seite aber paßt das Relief des Bodens gar nicht zu einer bedeutenden Gletscherbildung an<lb/>
+dieser Stelle. Die Bergkette der Insel, an der wir entlang fahren, ist sehr nahe an der<lb/>
+Küste, sehr steil, und die senkrechten Abhänge und der Bergkamm sind vollständig eisfrei.<lb/>
+Bloß die tieferen Seitenlagen des Gebirges sind mit Gehängegletschem bedeckt, die an dem<lb/>
+Ufer endigen, mitunter auch über die Küste hinausragen. Es sind »Küstengletscher«,<lb/>
+die sich direkt nach dem Meere zu bewegen müssen. Das Eis, das seinen Austritt ins<lb/>
+Meer nimmt, kann also nicht weit herkommen und die Materialien, die es mit sich bringt,<lb/>
+müssen dieselben sein, wie die, aus welchen das Gebirge besteht. Aber dort an jener<lb/>
+Moräne ist zu verschiedenartiges Gestein, als daß alles von dem benachbarten Gebirge<lb/>
+herrühren kann, es entstammt unbestreitbar sehr verschiedenen Orten einer zweifellos weit<lb/>
+ausgedehnten Landstrecke. Wenn also die gefundenen Gesteinsarten sich nicht auf Palmer-<lb/>
+land wiederfinden, so müssen sie vom Kontinent kommen, vom Inneren von Grahamland<lb/>
+oder sogar weiter her. Folglich müßten diese Gesteinsarten von einer ehemaligen Seiten-<lb/>
+moräne eines ungeheueren Gletschers herrühren, der diese große Hughes-Bucht ausgefüllt<lb/>
+hätte, und es muß auf alle Fälle in diesem Erdstrich eine Zeit großer Gletscherausdehnung<lb/>
+gegeben haben, d. h. eine Eiszeit. Um die Richtigkeit dieser Schlußfolgerung zu beweisen,<lb/>
+wären zahlreiche Beobachtungen erforderlich; massenhafte Landungen wären nötig, um<lb/>
+umfangreichere Kenntnisse von der Geologie dieser Länder zu bekommen und andere Spuren<lb/>
+der Quartärgletscher zu entdecken.<lb/>
+Um 4 Uhr steuern wir südsüdöstlich nach der Insel unserer ersten Landung. Der<lb/>
+Himmel bedeckt sich etwas. Zuerst erscheinen Cirruswolken von flammenförmiger Gestalt,<lb/>
+dann Alto-Cumulus; die Cirrus verwandeln sich in Cirro-Stratus und schließlich bildet sich<lb/>
+vor Sonnenuntergang ein niedriger Nebel über der See und verdichtet sich alsbald. Aber<lb/>
+kurz nach Sonnenuntergang zerteilt er sich, die Luft wird klar, und wir sehen von neuem<lb/>
+die Inseln und hohen Gebirge im S.<lb/></p>
                     </div>
                     <div type="diaryEntry" n="2">
-                        <p>Tagebucheintrag2Beginn
-                        <!-- Wie nervig. Der Tagebucheintrag wird durch zwei Seitenwechsel unterbrochen -->
+                        <p>Mittwoch, den 26. Jannar. Wir haben den ganzen Tag zwischen der <placeName ref="https://www.wikidata.org/wikiQ2462413">Two Hummock<lb/> Insel</placeName>, der Insel, wo wir zum erstenmal gelandet, und zwei Gruppen kleiner Inseln, die mehr<lb/>
+nach N lagen, zugebracht. Nachmittags begaben sich Lecointe, Danco und Racovitza auf<lb/>
+die Insel der ersten Landung, um dort astronomische und magnetische Beobachtungen an-<lb/>
+zustellen, während der Doktor, <persName ref="https://viaf.org/viaf/71419820//">Amundsen</persName> und ich auf der Insel mit den beiden Hummocks<lb/>
+landeten. Es ist das unsere sechste Landung. Knutsen und Johansen bringen das Boot<lb/>
+wieder an Bord, und die »Belgica« fährt nach der Insel der ersten Landung; abends wird<lb/>
+man uns abholen. Der Gesamtanblick der Insel mit den beiden Hummocks zeigt eine sehr<lb/>
+charakteristische Form. Sie ist länglich und vollständig mit einer dicken Hülle ewigen<lb/>
+Schnees bedeckt, die ihr eine gewölbte Gestalt gibt. Zwei pyramidenförmige Berghügel,<lb/>
+die — gerade wie Nunataks<note type="editorial">Berggipfel, die aus einer Eis-/Gletscheroberfläche herausragen</note> im Inlandeise — diese große Eiskalotte durchbrechen, stehen<lb/>
+in eigentümlichem Kontrast mit der allgemeinen Gestalt der Insel; sie sehen aus, als säßen<lb/>
+sie auf der Schneefläche, welche den gewälbten Gletscher bedeckt. Diese zwei Bergspitzen<lb/>
                         <pb facs="www.url.de"/>
+                        bestimmen die Längsrichtung der Insel. Die Two Hummock-Insel ist ein vortrefflicher<lb/>
+Typus antarktischer Landschaft. Wir landen an der Nordküste, in der Hoffnung, einen der<lb/>
+beiden Berge zu besteigen. Steile Eismauern umsäumen die Küste, und nur einige Fels-<lb/>
+vorsprünge liegen bloß. Indes sehe ich nirgends das Eis direkt ins Meer abstürzen, meistens<lb/>
+liegt ein sehr schmaler kahler Felsrand dazwischen. An der Stelle, die wir zur Landung<lb/>
+gewählt hatten, ragten sogar, bis 40 oder 50m vom Ufer, einige abgestumpfte Felsenköpfe<lb/>
+ein oder zwei Meter aus dem Wasser heraus. Es lag sogar etwas Schnee auf diesen Felsen<lb/>
+und erratischen Steinen; Seeleoparden schliefen dort ganz friedlich.<lb/>
+Der Küste entlang sind tiefe Eisspalten, so daß die Firneisklippen wie ein Gletscherfall<lb/>
+aussehen. Das Gestein an Ort und Stelle ist quarzhaltiger Diorit; ebenso sind dicke und<lb/>
+sehr regelmäßige Gänge sehr kompakten schwarzgrünen Gesteins vorhanden, andere Gänge<lb/>
+sind rot (von Prof. Renard als Melaphyr- und Pegmatitgänge bestimmt). Auch findet sich<lb/>
+hier erratisches Gestein, aber diese Steine können sehr wohl vom Treibeis angeschwemmt<lb/>
+worden sein. Wir versuchten eine Besteigung der Insel; leider hinderte uns der Nebel am<lb/>
+Vorwärtskommen. In einer Höhe von ungefähr 100m trafen wir sehr breite und sehr tiefe<lb/>
+Spalten; der Nebel war nun aber dermaßen dicht, daß wir dieselben erst in gefährlicher<lb/>
+Nähe unterscheiden konnten. Außerdem bemerkten wir bei der Rückkehr, daß wir, ohne<lb/>
+es zu ahnen, über mehrere Brücken hinweggegangen waren. Diese Spalten waren parallel<lb/>
+zur Küste, das heißt, sie verliefen senkrecht zur Gefällsrichtung. Natürlicherweise sahen<lb/>
+wir nirgends schneefreies Eis. In den Spalten zeigte sich eine sehr schöne blaue Färbung.<lb/>
+Ich bemerke, daß diese Färbung nicht Eis zur notwendigen Voraussetzung hat. Ich machte<lb/>
+ein 1,so m tiefes Loch, indem ich meinen Stock in den Schnee einschlug; sah man dann in<lb/>
+das Loch hinein, so bemerkte man einen intensiv blauen Fleck. Der Schnee war wenig<lb/>
+kompakt und naß; er war durch Versickerung des Schmelzwassers zusammengeballt und<lb/>
+sein Korn so klein, daß man ihn nicht als Firn bezeichnen kann.<lb/>
+Da das Boot uns im Stiche ließ, so mußten wir mehrere Stunden auf einem ganz<lb/>
+kleinen Raume auf kahlen Felsen verbringen, denn beiderseits hielten uns weiße Steilwände<lb/>
+auf, denen man sich mit Sicherheit nicht einmal nähern durfte. Von einer Landfauna oder<lb/>
+Flora zeigte sich keine Spur; in den Vertiefungen war weder Ton noch Sand. Auf den<lb/>
+nackten und durchs Eis abgehobelten und wohlpolierten Felsen, auf denen wir saßen, be-<lb/>
+fanden sich nur wenige kleine Steine und im Wasser einige Algen und ein paar Mollusken.<lb/>
+Gegen Abend hob sich schließlich der Nebel und die »Belgica« kam, um uns zurückzuholen.<lb/>
+Wir kreuzten dann wiederum, um noch weitere Aufnahmen zur Bestimmung der Lage der<lb/>
+Inseln zu machen, die man im N der Bucht sah. Als wir um 9 Uhr abends wieder in<lb/>
+der Umgebung der kleinen Insel der ersten Landung uns befanden, zeichnete ich einen<lb/>
+Eisberg ab, an dem wir vorüberfuhren, und der ein besonders interessantes Aussehen hatte.<lb/>
+Ich stieg in die Marsen und konnte von dort aus über seine Topographie klar werden.<lb/>
+Dieselbe zeigt, wie ich glaube zur Evidenz, daß dieser Eisberg nicht von einem Gletscher<lb/>
+stammt, sondern von einer Schneeanhäufung herrührt, die sich am Fuße eines steilen Gestades<lb/>
                         <pb facs="www.url.de"/>
-                        Tagebucheintrag2Ende</p>                  
+                        gebildet hatte, von welchem er sich dann losgelöst haben muß. Der Eisberg bildete eine<lb/>
+niedrige, leicht modellierte, ebene Fläche, die auf der einen Seite sich bis nahe an das<lb/>
+Wasser herabneigte, auf der<lb/>
+anderen Seite durch einen<lb/>
+kleinen Hügel abgeschlossen.<lb/>
+wurde. Dieser Hügel mußte<lb/>
+sich, so scheint es mir, an<lb/>
+den Fels angelehnt haben,<lb/>
+von welchem die Schnee-<lb/>
+den 26. um 9,30 Uhr abends.<lb/>
+wehen und Lawinen die nötige Zugabe herunterbrachten, um mit der Zeit das Eis an der<lb/>
+Küste in einen wirklichen Eisberg umzuwandeln. Mehrere Spalten sandten vom Hügel aus-<lb/>
+ihre Strahlen nach der Ebene herunter.<lb/></p>                  
                     </div>
                     <div type="diaryEntry" n="3">
-                        <p>Tagebucheintrag3</p>
+                        <p>Donnerstag, den 27. Jannar. Um 10 Uhr morgens landen wir auf einer kleinen<lb/>
+Insel unweit der Two Hummock-Insel. Sie hat keine Schneehülle; ihre höchste Erhebung<lb/>
+beträgt wenigstens 30 m. Es ist eine Felswohnstätte von Pinguinen und Kormoranen. Die<lb/>
+Insel ist von Spalten zerklüftet, welche den Fels in rautenförmige Blöcke zerteilen, und mit<lb/>
+losgelösten eckigen Felsstücken bedeckt. Ihr Äussehen gleicht dem der Hochkämme der<lb/>
+Granitmassive in den Alpen. In den Vertiefungen im Schatten liegt Schnee; an manchen<lb/>
+Stellen ist in den Spalten etwas mit Ton und Vogelfedern gemischter Guano.<lb/>
+Nachmittags steuert die »Belgica« südwestwärts und abends treten wir in die große<lb/>
+breite Meerenge ein, die sich nach S erstreckt. Zu beiden Seiten sehen wir hohe Berge<lb/>
+und ungeheure Eisströme.<lb/>
+Diese Gletscher umfließen die<lb/>
+Vorgebirge, und ich erblicke<lb/>
+einen solchen, der über die<lb/>
+Küste hinaus sich ins Wasser-<lb/>
+der Meerenge hinein erstreckt.<lb/>
+Gegen 8 Uhr abends konnte.<lb/>
+ich die Gestalt des unter Wasser-<lb/>
+liegenden Teiles eines Eis-<lb/>
+blockes sehen, der ganz in<lb/>
+der Nähe des Schiffes vorbei-<lb/>
+kam. Nebenstehende Figur.<lb/>
+die ihn darstellt, zeigt, daß<lb/>
+das Wasser das Eis weniger<lb/>
+rasch auflöst, als die Luft und<lb/>
+die Sonnenstrahlung es schmelzen. Das erklärt auch, warum die Eisberge sich in die Höhe<lb/>
+heben und über dem Wasserniveau ehemalige Wasserlinien zeigen müssen.<lb/></p>
                     </div><div type="diaryEntry" n="4">
-                        <p>Tagebucheintrag4Beginn</p>
+                        <p>Freitag, den 28. Jannar. Das Wetter ist unsichtig. Wir machen mitten im Kanal<lb/>
+eine Lotung; die gefundene Tiefe beträgt 625 m. Rings um uns sind Finnwale; man<lb/>
+hört fortwährend ihr Atmen. Es wird ganz geheimnisvoll, so einsam fühlt man sich zwischen<lb/>
+dem grauen Himmelsgewölhe und der düsteren Oberfläche des Wassers. Die Finnwale<lb/>
+tauchen unter und kommen wieder an die Oberfläche; sie spielen, unsere Gegenwart stört<lb/>
+sie nicht, sie schenken uns keinerlei Beachtung. Man fühlt sich fremd in dieser seltsamen<lb/>
+Natur.<lb/>
+Wir fahren in die Nähe der Küste um eine Landung zu versuchen. Es sind dort<lb/>
+einige kleine Inseln und Felsen. Eine der Inseln zeigt Spuren einer leicht geneigten<lb/>
+Schichtung. Sie ist eben und fast vollständig unbedeckt; die Schneegrenze geht also nicht<lb/>
+</p>
                     </div>
             </div>
         </body>
